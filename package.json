@@ -1,0 +1,19 @@
+{
+  "name": "no",
+  "version": "0.0.1",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo katy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoe/no.git"
+  },
+  "author": "Katy Moe <katy@katy.moe> (http://katy.moe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmoe/no/issues"
+  },
+  "homepage": "https://github.com/kmoe/no#readme"
+}
